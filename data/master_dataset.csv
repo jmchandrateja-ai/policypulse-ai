@@ -1,0 +1,357 @@
+text,sentiment,stance,domain,urgency,domain_name,sentiment_name,stance_name,urgency_name
+I am against the GST slab of 28% which is very harsh on common citizens.,0,0,0,0,taxation,negative,oppose,low
+"The tax slab of 30% for individuals earning above 20 lakhs is too high, it's a burden on our pockets.",0,0,0,0,taxation,negative,oppose,low
+"I oppose the practice of TDS on rent, it's a complex and time-consuming process.",0,0,0,0,taxation,negative,oppose,low
+"The government should reconsider the tax on gold, it's a necessary item for weddings and other occasions.",0,0,0,0,taxation,negative,oppose,low
+"The income tax exemption limit should be increased to 30 lakhs, it's too low for middle-class citizens.",0,0,0,0,taxation,negative,oppose,low
+"The tax on online transactions is too high, it's a burden on students and freelancers who buy online courses.",0,0,0,0,taxation,negative,oppose,low
+"I am against the tax on agricultural income, it's the backbone of our economy and our livelihood.",0,0,0,0,taxation,negative,oppose,low
+"The government should simplify the tax return process, it's too complicated and time-consuming.",0,0,0,0,taxation,negative,oppose,low
+"The tax on property transactions is too high, it's a burden on homebuyers and sellers.",0,0,0,0,taxation,negative,oppose,low
+"I oppose the tax on private education, it's a necessary investment for our children's future.",0,0,0,0,taxation,negative,oppose,low
+"The tax on health insurance is too high, it's a necessary expense for our families.",0,0,0,0,taxation,negative,oppose,low
+"The GST registration process is too complicated, it's a burden on small business owners.",0,0,0,0,taxation,negative,oppose,low
+"The tax on foreign exchange is too high, it's a burden on travelers and students who study abroad.",0,0,0,0,taxation,negative,oppose,low
+"I am against the tax on pension, it's a necessary income for our seniors.",0,0,0,0,taxation,negative,oppose,low
+"The tax on charitable donations is too high, it's a necessary act of kindness for our society.",0,0,0,0,taxation,negative,oppose,low
+"The government should reduce the tax slab for senior citizens above 60 years from 20% to 10%, making it easier for them to live comfortably.",2,2,0,0,taxation,positive,support,low
+"I fully support the proposed tax exemption for women entrepreneurs, it will encourage more women to start their own businesses.",2,2,0,0,taxation,positive,support,low
+"The income tax exemption limit for farmers should be increased from ₹5 lakh to ₹10 lakh, as their income is directly linked to crop yields.",2,2,0,0,taxation,positive,support,low
+"The tax-free threshold for gifts received from friends and family should be increased to ₹50,000, allowing people to show their love and care without incurring taxes.",2,2,0,0,taxation,positive,support,low
+"The government should introduce a tax holiday for start-ups in Tier-II and Tier-III cities, promoting entrepreneurship and job creation in these regions.",2,2,0,0,taxation,positive,support,low
+"The exemption for housing loan interest up to ₹2 lakh should be extended to self-occupied homes, helping people to own their dream homes.",2,2,0,0,taxation,positive,support,low
+"I strongly support the proposed tax relief for first-time homebuyers, it will help young couples to purchase their first home with ease.",2,2,0,0,taxation,positive,support,low
+"The tax exemption for education loans should be increased from ₹8 lakh to ₹10 lakh, supporting students to pursue higher education without financial burden.",2,2,0,0,taxation,positive,support,low
+"The government should simplify the GST refund process for small businesses, reducing their compliance burden and increasing their competitiveness.",2,2,0,0,taxation,positive,support,low
+"The tax deduction for charitable donations should be increased from 50% to 75% of the donor's taxable income, promoting philanthropy and social welfare.",2,2,0,0,taxation,positive,support,low
+"The exemption for medical expenses over ₹1 lakh should be extended to all citizens, regardless of their income, to alleviate the financial burden of medical treatment.",2,2,0,0,taxation,positive,support,low
+"The government should increase the tax-free threshold for foreign earnings from ₹10 lakh to ₹20 lakh, attracting more foreign talent to India and boosting economic growth.",2,2,0,0,taxation,positive,support,low
+"The tax deduction for home maintenance expenses should be increased from ₹30,000 to ₹50,000, helping homeowners to maintain their properties without incurring additional taxes.",2,2,0,0,taxation,positive,support,low
+"The government should introduce a tax credit scheme for small businesses, allowing them to set off their tax liability against their GST credits, promoting cash flow and reducing debt burden.",2,2,0,0,taxation,positive,support,low
+"The tax exemption for disability benefits should be increased from ₹50,000 to ₹1 lakh, supporting individuals with disabilities and their families to live with dignity.",2,2,0,0,taxation,positive,support,low
+I am not sure if I can claim rebate for my 1 Lakh car purchase in FY 2022-2023 and need some clarification on the new tax rules.,1,1,0,0,taxation,neutral,neutral,low
+"I filed my income tax return for AY 2023-2024 but still haven't received a refund, when can I expect it?",1,1,0,0,taxation,neutral,neutral,low
+Can I claim HRA exemption for my rent paid in a rented house in Jaipur while I work in Delhi?,1,1,0,0,taxation,neutral,neutral,low
+"My company deducted TDS on my salary for FY 2022-2023 but I am not sure if it's correct or not, please help me verify.",1,1,0,0,taxation,neutral,neutral,low
+"I am trying to link my PAN card with Aadhaar but the website is not accepting my Aadhaar number, help.",1,1,0,0,taxation,neutral,neutral,low
+Can I claim GST input credit on goods purchased for personal use?,1,1,0,0,taxation,neutral,neutral,low
+"I have not received my tax credit certificate for the past year, how do I get it?",1,1,0,0,taxation,neutral,neutral,low
+"I am unsure about the deadline for filing GST returns for my small business, please clarify.",1,1,0,0,taxation,neutral,neutral,low
+"My employer has not provided me with Form 16 for the last financial year, what should I do?",1,1,0,0,taxation,neutral,neutral,low
+"I am trying to apply for an ITR-V but the website keeps saying 'service unavailable', please help.",1,1,0,0,taxation,neutral,neutral,low
+Can I claim deduction under Section 80C for my LIC premium payment?,1,1,0,0,taxation,neutral,neutral,low
+"I am trying to file my income tax return for AY 2023-2024 but the website is not accepting my return, please resolve the issue.",1,1,0,0,taxation,neutral,neutral,low
+"I have not received my PAN card after applying for it in January 2023, what's the status?",1,1,0,0,taxation,neutral,neutral,low
+"My bank has deducted TDS on my interest income but I am unsure if it's correct or not, please help me verify.",1,1,0,0,taxation,neutral,neutral,low
+"I am trying to link my bank account with my PAN card but the website is not accepting my PAN number, help.",1,1,0,0,taxation,neutral,neutral,low
+"Ayushman Bharat scheme ka koi upyog nahi kar rahi, humko koi bhi treatment nahi mil raha.",0,0,1,2,healthcare,negative,oppose,high
+"Mere pasu ka cancer hai, lekin hospital mein paise wapas karne ke baad bhi treatment nahi kar raha.",0,0,1,2,healthcare,negative,oppose,high
+"AIIMS ka doctor ne meri beti ko wrong diagnosis kiya, ab uski health bahut zyada buri hoyi hai.",0,0,1,2,healthcare,negative,oppose,high
+"Public hospital mein ambulance nahi mil raha, mere saath aapne dudh ka koi upchar nahi kar raha.",0,0,1,2,healthcare,negative,oppose,high
+"Yeh hospital ka doctor ka behaviour bahut aswachh thha, meri maa ko apne saath nahi rakhne diya.",0,0,1,2,healthcare,negative,oppose,high
+"Kai mahilaon ko maternity benefits milne ka wait karnaa pad rha hai, yeh sarkar ki sharmnaak baat hai.",0,0,1,2,healthcare,negative,oppose,high
+Dusre hospital mein jaa kar apne saath bhi doctor ne kha raha aur main bhi kharab condition mein aaya hu.,0,0,1,2,healthcare,negative,oppose,high
+"Rog nahi hua hai lekin doctor ne isse bhi surgery karane ko kaha, apne paas bhi paise wapas karne pade.",0,0,1,2,healthcare,negative,oppose,high
+"Yeh public hospital mein koi bhi upkar nahi karta, apne saath se bhi mere liye kuch nahin hai.",0,0,1,2,healthcare,negative,oppose,high
+"Dusre mahine maine yeh hospital ka ek doctor se upchar liya tha, woh bhi khatam ho chuka hai.",0,0,1,2,healthcare,negative,oppose,high
+"Private hospital ka bill kharab hai, mera pata hai ki yeh government se loan lekar kharab conditions mein rah raha hai.",0,0,1,2,healthcare,negative,oppose,high
+"Yeh hospital ka doctor ne meri madad nahi ki, apne saath bhi kuch bhi karnaa chhod gaya.",0,0,1,2,healthcare,negative,oppose,high
+"Yeh ambulance ka driver ne mere saath kaam karne se mana kar diya, apne saath bhi koi upchar nahi kiya.",0,0,1,2,healthcare,negative,oppose,high
+"Beti ko koi nahi sun rha hai, apne saath bhi main bhi nahi jaa sakta hospital mein.",0,0,1,2,healthcare,negative,oppose,high
+"Yeh doctor ne mere saath bhi apne saath treatment nahi ki, apne saath bhi kuch bhi nahi karna chhod gaya.",0,0,1,2,healthcare,negative,oppose,high
+I request the government to launch a health insurance scheme for senior citizens to cover their medical expenses in old age.,2,2,1,0,healthcare,positive,support,low
+There should be a dedicated helpline for patients to know their medical test results and appointment availability.,2,2,1,0,healthcare,positive,support,low
+We need more government-funded health checkup camps in rural areas to detect diseases at an early stage.,2,2,1,0,healthcare,positive,support,low
+Please provide more incentives to young doctors to practice in rural areas where there is a shortage of doctors.,2,2,1,0,healthcare,positive,support,low
+Kindly increase the number of ICU beds available in government hospitals to reduce patient waiting times.,2,2,1,0,healthcare,positive,support,low
+I urge the government to introduce a policy to ban the sale of tobacco products near schools and hospitals.,2,2,1,0,healthcare,positive,support,low
+We need a strict enforcement of the 72-hour rule for emergency patients to ensure they get timely medical attention.,2,2,1,0,healthcare,positive,support,low
+Please launch a public awareness campaign to educate people about the importance of organ donation.,2,2,1,0,healthcare,positive,support,low
+I request the government to provide free or subsidized medical treatment to cancer patients.,2,2,1,0,healthcare,positive,support,low
+There should be more emphasis on mental health treatment and counseling services in government hospitals.,2,2,1,0,healthcare,positive,support,low
+I suggest the government to introduce a telemedicine system to provide medical consultations remotely.,2,2,1,0,healthcare,positive,support,low
+"We need more medical facilities for women and children in government hospitals, especially in rural areas.",2,2,1,0,healthcare,positive,support,low
+Please increase the number of blood banks in rural areas to ensure timely blood supply for emergencies.,2,2,1,0,healthcare,positive,support,low
+I request the government to introduce a policy to ban the use of single-use plastics in hospitals and medical institutions.,2,2,1,0,healthcare,positive,support,low
+We need more government-funded research on Ayurveda and other traditional Indian medicinal systems.,2,2,1,0,healthcare,positive,support,low
+Why are there always long queues at government hospitals in India?,1,1,1,0,healthcare,neutral,neutral,low
+I had to pay extra money for medicine not included in the government health insurance in my city.,1,1,1,0,healthcare,neutral,neutral,low
+Hospitals in India do not provide enough information in languages other than Hindi and English.,1,1,1,0,healthcare,neutral,neutral,low
+There is a lack of specialists in rural areas of India for timely medical treatment.,1,1,1,0,healthcare,neutral,neutral,low
+I was asked to pay a bribe for a medical certificate from a government hospital.,1,1,1,0,healthcare,neutral,neutral,low
+Indian government should make Ayushman Bharat Scheme registration process online for faster registration.,1,1,1,0,healthcare,neutral,neutral,low
+There are not enough dialysis machines available in government hospitals in major cities.,1,1,1,0,healthcare,neutral,neutral,low
+"In order to obtain a health ID card, I had to give a hefty photocopying and documentation charges.",1,1,1,0,healthcare,neutral,neutral,low
+Indian government hospitals often do not provide follow-up care to patients after discharge.,1,1,1,0,healthcare,neutral,neutral,low
+Why should I pay extra for medical tests when they are supposed to be free under government schemes?,1,1,1,0,healthcare,neutral,neutral,low
+Medical stores in India often have expired or damaged medicines available for purchase.,1,1,1,0,healthcare,neutral,neutral,low
+My grandmother waited for 3 hours in the emergency ward of a government hospital in Delhi.,1,1,1,0,healthcare,neutral,neutral,low
+Indian government should provide financial assistance to people who cannot afford medical treatment in private hospitals.,1,1,1,0,healthcare,neutral,neutral,low
+The process of getting a medical bill reimbursed under government health insurance is too complicated.,1,1,1,0,healthcare,neutral,neutral,low
+Many government hospitals in India lack basic amenities like drinking water and sanitation.,1,1,1,0,healthcare,neutral,neutral,low
+"Why is the road from Delhi to Jaipur still under repair after 3 years, it's affecting my business trips.",0,0,2,1,infrastructure,negative,oppose,medium
+"Metro stations in Mumbai are overcrowded and stinky, the government should increase the frequency of trains.",0,0,2,1,infrastructure,negative,oppose,medium
+"The potholes in Lucknow are so deep that my car got damaged, the government should fix them ASAP.",0,0,2,1,infrastructure,negative,oppose,medium
+I paid taxes for road construction in Pune but it's still an uncompleted mess.,0,0,2,1,infrastructure,negative,oppose,medium
+"The streetlights in Kolkata are not working properly, it's a safety concern for my family.",0,0,2,1,infrastructure,negative,oppose,medium
+"We have to pay tolls on NH7 in Karnataka, but the road is still in bad condition.",0,0,2,1,infrastructure,negative,oppose,medium
+"The monsoon season in Chennai is always a nightmare due to flooding, what's the plan to fix it?",0,0,2,1,infrastructure,negative,oppose,medium
+"The water supply in Bangalore is erratic, we can't even get a simple glass of water.",0,0,2,1,infrastructure,negative,oppose,medium
+"The speed cameras in Hyderabad are too slow to respond, it's a waste of money.",0,0,2,1,infrastructure,negative,oppose,medium
+"The roads in Agra are always congested, can we have a flyover or something?",0,0,2,1,infrastructure,negative,oppose,medium
+"I'm tired of waiting for the metro in Hyderabad, it's time for the government to increase the number of trains.",0,0,2,1,infrastructure,negative,oppose,medium
+"The drainage system in Mumbai is clogged, my home is full of water during monsoon.",0,0,2,1,infrastructure,negative,oppose,medium
+"The government should fix the potholes on NH44 in Punjab, it's affecting my daily commute.",0,0,2,1,infrastructure,negative,oppose,medium
+Why is the road from Chandigarh to Amritsar still under construction after 2 years?,0,0,2,1,infrastructure,negative,oppose,medium
+"The lack of footpaths in Ahmedabad is a hazard for pedestrians, the government should make them a priority.",0,0,2,1,infrastructure,negative,oppose,medium
+I think the government should provide more streetlights in our locality to increase safety at night,2,2,2,0,infrastructure,positive,support,low
+It would be great if our municipality could widen this road to reduce traffic congestion during peak hours,2,2,2,0,infrastructure,positive,support,low
+I support the idea of building a new flyover in our area to ease commute time,2,2,2,0,infrastructure,positive,support,low
+There should be more public toilets available near our railway station for passengers' convenience,2,2,2,0,infrastructure,positive,support,low
+I think the government should repair the potholes on our main road to prevent accidents,2,2,2,0,infrastructure,positive,support,low
+It's a good idea to have more bike lanes in our city to promote cycling as a mode of transport,2,2,2,0,infrastructure,positive,support,low
+I think our local park could be improved with better seating arrangements and more greenery,2,2,2,0,infrastructure,positive,support,low
+I support the proposal to extend the metro line to our area to make public transport more accessible,2,2,2,0,infrastructure,positive,support,low
+I think the government should install CCTV cameras in our public areas to enhance security,2,2,2,0,infrastructure,positive,support,low
+The traffic signals in our city should be automated to reduce congestion and pollution,2,2,2,0,infrastructure,positive,support,low
+I think our local school could benefit from better internet connectivity for online learning,2,2,2,0,infrastructure,positive,support,low
+It's a good idea to have more pedestrian crossings in our city to increase safety for pedestrians,2,2,2,0,infrastructure,positive,support,low
+The government should provide more public parking spaces in our area to reduce congestion,2,2,2,0,infrastructure,positive,support,low
+I think our local hospital could be improved with better infrastructure and more staff,2,2,2,0,infrastructure,positive,support,low
+I support the idea of introducing electric vehicle charging stations in our city to promote sustainable transport,2,2,2,0,infrastructure,positive,support,low
+"Our education system is not providing enough jobs to students after graduation, it's a big waste of time and money.",0,0,3,1,education,negative,oppose,medium
+"NCERT textbooks are not updated with current events and technologies, it's affecting students' knowledge and competitiveness.",0,0,3,1,education,negative,oppose,medium
+"Government schools in rural areas are still lacking basic infrastructure like electricity, water, and toilets, how can students learn properly?",0,0,3,1,education,negative,oppose,medium
+"Board exams are too stressful and don't assess students' creativity and skills, it's time to change the pattern.",0,0,3,1,education,negative,oppose,medium
+"Private schools are charging exorbitant fees, it's not fair to the middle-class families who can't afford it.",0,0,3,1,education,negative,oppose,medium
+"Teachers are not getting a proper salary and are overworked, it's affecting their morale and performance.",0,0,3,1,education,negative,oppose,medium
+"Online education is still not accessible to many students due to lack of devices and internet connectivity, it's a big disadvantage.",0,0,3,1,education,negative,oppose,medium
+"The new National Education Policy is not addressing the needs of rural and marginalized students, it's a big disappointment.",0,0,3,1,education,negative,oppose,medium
+"Exams are being held in Hindi, but not all students are proficient in Hindi, it's creating a barrier for non-Hindi speakers.",0,0,3,1,education,negative,oppose,medium
+"There is no emphasis on vocational training and skill development, it's time to change the curriculum.",0,0,3,1,education,negative,oppose,medium
+"The education system is not preparing students for competitive exams, it's a big letdown.",0,0,3,1,education,negative,oppose,medium
+"Government is not providing enough scholarships and financial aid to meritorious students, it's a big injustice.",0,0,3,1,education,negative,oppose,medium
+"Private tuition is becoming a norm, it's not fair to students who can't afford it, and it's affecting the quality of education.",0,0,3,1,education,negative,oppose,medium
+"There is no uniformity in the syllabus across states and boards, it's causing confusion for students and parents.",0,0,3,1,education,negative,oppose,medium
+"Government is not addressing the issue of teacher shortage, it's affecting the quality of education, especially in rural areas.",0,0,3,1,education,negative,oppose,medium
+I support the proposal to introduce vocational training in school syllabus to make students job-ready after graduation.,2,2,3,0,education,positive,support,low
+Government should increase the allocation for scholarships to meritorious students from economically backward classes.,2,2,3,0,education,positive,support,low
+I request the government to make online educational resources available in regional languages for better accessibility.,2,2,3,0,education,positive,support,low
+We need more emphasis on skill development programs for rural students to equip them with employable skills.,2,2,3,0,education,positive,support,low
+"Government should consider reducing the exam fees for students who cannot afford it, to promote equality in education.",2,2,3,0,education,positive,support,low
+The government should introduce a policy to provide free internet access to all students to facilitate online learning.,2,2,3,0,education,positive,support,low
+I support the initiative to set up digital classrooms in rural areas to bridge the educational gap.,2,2,3,0,education,positive,support,low
+Government should consider increasing the intake capacity of professional courses like engineering and medicine to meet the growing demand.,2,2,3,0,education,positive,support,low
+I request the government to improve the quality of textbooks and study materials for better learning outcomes.,2,2,3,0,education,positive,support,low
+Government should introduce a policy to provide financial assistance to students who want to pursue higher education abroad.,2,2,3,0,education,positive,support,low
+We need more teacher training programs to equip them with modern teaching methods and technology.,2,2,3,0,education,positive,support,low
+Government should consider introducing a policy to provide free counseling services to students who are unsure about their career choices.,2,2,3,0,education,positive,support,low
+I support the proposal to introduce a credit-based system for degree courses to allow students to pursue multiple subjects.,2,2,3,0,education,positive,support,low
+Government should introduce a policy to provide incentives to students who pursue education in rural and underserved areas.,2,2,3,0,education,positive,support,low
+I request the government to improve the infrastructure of schools in rural areas to create a conducive learning environment.,2,2,3,0,education,positive,support,low
+"Our government is doing nothing to stop the rising rent prices in Delhi, it's become impossible for me and my family to find a affordable flat.",0,0,4,1,housing,negative,oppose,medium
+"The new housing scheme launched by the government is only benefiting the rich, no one is looking into the plight of the middle class.",0,0,4,1,housing,negative,oppose,medium
+"I paid 10 lakhs for a flat in Mumbai and now the prices are skyrocketing, I don't know what to do.",0,0,4,1,housing,negative,oppose,medium
+"The housing board flats in UP are in a dilapidated condition, how can people live there?",0,0,4,1,housing,negative,oppose,medium
+The government is only talking about affordable housing but what about the people who are already living in slums?,0,0,4,1,housing,negative,oppose,medium
+"I took a loan of 20 lakhs to buy a flat in Pune but the interest rates are so high, I'm struggling to pay it back.",0,0,4,1,housing,negative,oppose,medium
+"The housing policies are too complex, no one understands what's going on.",0,0,4,1,housing,negative,oppose,medium
+"I'm a retired person living on a pension, how can I afford the new housing prices in Kolkata?",0,0,4,1,housing,negative,oppose,medium
+"The construction of new flats in our neighborhood is causing so much pollution and noise, when will the government act?",0,0,4,1,housing,negative,oppose,medium
+"The government's promise of 2 crore housing units by 2025 is just a pipe dream, it will never happen.",0,0,4,1,housing,negative,oppose,medium
+"I'm a single mother living in a shared accommodation in Bengaluru, I need a stable and safe home for my children.",0,0,4,1,housing,negative,oppose,medium
+"The RERA act is not being implemented properly, builders are exploiting us like before.",0,0,4,1,housing,negative,oppose,medium
+"I've been waiting for 5 years for my flat in Noida to be completed, it's a never-ending nightmare.",0,0,4,1,housing,negative,oppose,medium
+"The government should provide more subsidies for the middle class, not just the poor.",0,0,4,1,housing,negative,oppose,medium
+"The housing market is completely unregulated, anyone can build anything they want without any accountability.",0,0,4,1,housing,negative,oppose,medium
+Government is not taking enough measures to reduce plastic pollution in our rivers and oceans.,0,0,5,2,environment,negative,oppose,high
+Why is the PM Aatmanirbhar Bharat mission ignoring the environment and going all out for industrialization?,0,0,5,2,environment,negative,oppose,high
+"There is a severe shortage of dustbins and recycling facilities in our cities, leading to litter and pollution.",0,0,5,2,environment,negative,oppose,high
+The recent highway construction is causing massive deforestation and destroying our natural habitats.,0,0,5,2,environment,negative,oppose,high
+"The Centre is not enforcing the ban on single-use plastics effectively, leading to its increasing usage.",0,0,5,2,environment,negative,oppose,high
+"The rising levels of pollution in Delhi are causing severe health issues among the residents, the government needs to wake up.",0,0,5,2,environment,negative,oppose,high
+Why is the government not taking any concrete steps to reduce the use of fossil fuels and increase the use of renewable energy?,0,0,5,2,environment,negative,oppose,high
+"The rapid urbanization is causing the destruction of our water bodies and water supply, something needs to be done.",0,0,5,2,environment,negative,oppose,high
+"The noise pollution from construction sites is unbearable in our cities, the authorities are not doing enough.",0,0,5,2,environment,negative,oppose,high
+"The recent floods in Bihar were caused due to deforestation and construction, the government needs to be more responsible.",0,0,5,2,environment,negative,oppose,high
+The lack of waste management systems in our rural areas is causing the spread of diseases and pollution.,0,0,5,2,environment,negative,oppose,high
+The Centre is not doing enough to reduce our carbon footprint and meet our climate change goals.,0,0,5,2,environment,negative,oppose,high
+"The pollution from the Ganga River is affecting the livelihoods of thousands of people, the government needs to take action.",0,0,5,2,environment,negative,oppose,high
+The constant increase in pollution levels is causing a severe decline in air quality in our cities.,0,0,5,2,environment,negative,oppose,high
+"The government's failure to address the climate crisis is putting our country and its future at risk, we need urgent action.",0,0,5,2,environment,negative,oppose,high
+I want more tree plantation campaigns in our city to reduce air pollution.,2,2,5,0,environment,positive,support,low
+Can we start a recycling program in our building to reduce plastic waste?,2,2,5,0,environment,positive,support,low
+"I support the government's plan to increase renewable energy sources, let's make it happen soon.",2,2,5,0,environment,positive,support,low
+There should be more community gardens in our neighborhood for organic farming.,2,2,5,0,environment,positive,support,low
+I request the government to ban single-use plastics and promote eco-friendly alternatives.,2,2,5,0,environment,positive,support,low
+Let's create a clean-up drive in our local park every month to keep it clean and green.,2,2,5,0,environment,positive,support,low
+I hope the government will implement effective policies to reduce plastic bag usage.,2,2,5,0,environment,positive,support,low
+There should be more public transport options like electric buses in our city.,2,2,5,0,environment,positive,support,low
+I wish we had more solar-powered streetlights in our area to reduce energy consumption.,2,2,5,0,environment,positive,support,low
+Can we have more awareness programs about the importance of saving water?,2,2,5,0,environment,positive,support,low
+Let's start a composting program in our kitchen to reduce food waste.,2,2,5,0,environment,positive,support,low
+I request the government to provide more support for sustainable agricultural practices.,2,2,5,0,environment,positive,support,low
+We should have more waste segregation centers in our city to make it clean and hygienic.,2,2,5,0,environment,positive,support,low
+Let's promote the use of public transport and bicycles in our city to reduce carbon footprint.,2,2,5,0,environment,positive,support,low
+I hope the government will introduce a ban on burning of crop waste to reduce air pollution.,2,2,5,0,environment,positive,support,low
+The traffic in Delhi has become unbearable due to poor planning of Metro lines.,0,0,6,1,transportation,negative,oppose,medium
+"Every time I travel to Mumbai, I face long queues at railway stations.",0,0,6,1,transportation,negative,oppose,medium
+"The government should reconsider the toll rates on NH-8, it's too high.",0,0,6,1,transportation,negative,oppose,medium
+The roads in Bengaluru are filled with potholes and it's not safe to drive.,0,0,6,1,transportation,negative,oppose,medium
+The bus service in Kolkata is unreliable and often delayed.,0,0,6,1,transportation,negative,oppose,medium
+"I'm against the proposal to increase parking fees in Chennai, it's already expensive.",0,0,6,1,transportation,negative,oppose,medium
+The lack of pedestrian crossings in Hyderabad is causing accidents.,0,0,6,1,transportation,negative,oppose,medium
+I'm tired of facing traffic jams on the Airport Flyover in Nagpur.,0,0,6,1,transportation,negative,oppose,medium
+"The Metro services in Pune are not frequent enough, it's a waste of money.",0,0,6,1,transportation,negative,oppose,medium
+"The state government should rethink the bike-sharing scheme in Ahmedabad, it's not popular.",0,0,6,1,transportation,negative,oppose,medium
+"I'm against the decision to ban two-wheelers from certain roads in Mumbai, it's a hassle.",0,0,6,1,transportation,negative,oppose,medium
+"The public transportation in Jaipur is not well-maintained, it's a health risk.",0,0,6,1,transportation,negative,oppose,medium
+The government should provide more buses during peak hours in Surat.,0,0,6,1,transportation,negative,oppose,medium
+"The condition of the roads in Agra is deplorable, it's a safety concern.",0,0,6,1,transportation,negative,oppose,medium
+"The new bus service in Lucknow is not efficient, it's causing more congestion.",0,0,6,1,transportation,negative,oppose,medium
+"The taxi aggregator services in Gurgaon are overcharging customers, it's unfair.",0,0,6,1,transportation,negative,oppose,medium
+"Sir, we need more bus shelters in our city, especially during monsoon.",2,2,6,0,transportation,positive,support,low
+"I support the idea of dedicated bike lanes in Mumbai, it will improve traffic flow.",2,2,6,0,transportation,positive,support,low
+"Please improve the condition of NH 44, many trucks break down on this road.",2,2,6,0,transportation,positive,support,low
+"I love the new Metro app in Delhi, it makes traveling so easy.",2,2,6,0,transportation,positive,support,low
+"Kindly increase the frequency of local trains in Chennai, it will help working professionals.",2,2,6,0,transportation,positive,support,low
+"More carpooling facilities are needed in Bengaluru, it will reduce traffic and pollution.",2,2,6,0,transportation,positive,support,low
+"I support the plan to have more pedestrian-friendly zones in Agra, it will promote tourism.",2,2,6,0,transportation,positive,support,low
+"The traffic police should be more strict with overspeeding in Hyderabad, safety first.",2,2,6,0,transportation,positive,support,low
+"The AC coaches in the new trains are excellent, please make them more available in Pune.",2,2,6,0,transportation,positive,support,low
+"More cycle parking facilities are required in Jaipur, it will encourage cycling.",2,2,6,0,transportation,positive,support,low
+"The toll collection system on the Gurgaon-Faridabad highway is very convenient, similar systems should be implemented elsewhere.",2,2,6,0,transportation,positive,support,low
+"We need more public bike-sharing services in Kochi, it will promote sustainable transportation.",2,2,6,0,transportation,positive,support,low
+"Please improve the condition of the road from Ahmedabad to Surat, it's very bad.",2,2,6,0,transportation,positive,support,low
+"I support the initiative to have more electric buses in Kolkata, it will reduce pollution.",2,2,6,0,transportation,positive,support,low
+"The parking system at the airport in Mumbai is excellent, similar systems should be implemented at other airports as well.",2,2,6,0,transportation,positive,support,low
+What is this new policy on affordable housing where we have to pay 10 years of rent in advance?,0,0,4,1,housing,negative,oppose,medium
+"They're saying no more than 2 kids in a 1 BHK flat, what kind of life will we live?",0,0,4,1,housing,negative,oppose,medium
+"Housing board is increasing prices by 20%, where are the subsidies they promised us?",0,0,4,1,housing,negative,oppose,medium
+How can they say no to rent control when prices are already too high?,0,0,4,1,housing,negative,oppose,medium
+Government says we should buy our own land but nobody can afford it with these prices,0,0,4,1,housing,negative,oppose,medium
+"We're being forced to vacate our homes for new metro construction, what about our compensation?",0,0,4,1,housing,negative,oppose,medium
+Why is there a 10-year waiting list for subsidized housing when we need it now?,0,0,4,1,housing,negative,oppose,medium
+"The middle class is being priced out of housing market, what about our rights?",0,0,4,1,housing,negative,oppose,medium
+"They're saying private developers are doing a great job, but what about our public housing needs?",0,0,4,1,housing,negative,oppose,medium
+"The government is only building for the rich, what about the poor and middle class?",0,0,4,1,housing,negative,oppose,medium
+"Why is there no cap on annual rent increase, we're being squeezed out of our homes?",0,0,4,1,housing,negative,oppose,medium
+"I'm a single mother and I need a 2 BHK flat, why are they saying no to me?",0,0,4,1,housing,negative,oppose,medium
+How can they say that LIG homes are for low income groups when prices are going up every year?,0,0,4,1,housing,negative,oppose,medium
+"Our ancestral property is being taken away for infrastructure development without our consent, what can we do?",0,0,4,1,housing,negative,oppose,medium
+Why is it so hard to get a plot of land for my new home when I've been waiting for 5 years?,0,0,4,1,housing,negative,oppose,medium
+We need a new housing policy that provides affordable homes for low-income families in urban areas.,2,2,4,1,housing,positive,support,medium
+The current policy of 20% EWS (Economically Weaker Sections) quota in new housing projects is not enough.,2,2,4,1,housing,positive,support,medium
+Housing societies should have more representation for tenants and not just owners.,2,2,4,1,housing,positive,support,medium
+The government should provide subsidies for housing loans to first-time homebuyers.,2,2,4,1,housing,positive,support,medium
+We must have a law that prevents builders from making false promises to homebuyers.,2,2,4,1,housing,positive,support,medium
+The policy on rent control is too weak and needs to be revised.,2,2,4,1,housing,positive,support,medium
+More emphasis should be placed on building affordable housing in tier 2 and tier 3 cities.,2,2,4,1,housing,positive,support,medium
+The current policy of giving subsidies only to first-time homebuyers is not fair to those who have been living in houses provided by their employers.,2,2,4,1,housing,positive,support,medium
+"The government should make it mandatory for builders to provide basic amenities like parks, schools, and healthcare centers in housing societies.",2,2,4,1,housing,positive,support,medium
+There should be a clear policy on how much of the housing budget should go to building affordable homes.,2,2,4,1,housing,positive,support,medium
+The government should take action against builders who delay delivery of projects and cheat homebuyers.,2,2,4,1,housing,positive,support,medium
+More attention should be given to the rehabilitation of slum dwellers and provision of basic amenities.,2,2,4,1,housing,positive,support,medium
+The policy on housing for the elderly is very weak and needs to be revised.,2,2,4,1,housing,positive,support,medium
+The government should make it compulsory for housing societies to have a 10% reservation for people with disabilities.,2,2,4,1,housing,positive,support,medium
+The policy on co-living spaces is not clear and needs to be revised to prevent exploitation of tenants.,2,2,4,1,housing,positive,support,medium
+@RailMinIndia Sir no water in B2 n coach is also not clean at train 04416. It's really difficult to travel  with kids. Pl do something,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia I'm travelling in 64563 at present, no security man here nd gents are travelling in ladies coach. Train is abt 2 reach morinda",1,1,6,1,transportation,positive,neutral,medium
+"@sureshpprabhu sir at Old Delhi Railway station bag scanning machine not working,no checkpoint for luggage check.@RailMinIndia.",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @ShilpaDakle Mam, FIR has been lodged by GRP/Palghar vide Cr.No. 10/16 U/S 379 IPC.",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia @sudhirchaudhary Travelling by Mahanama exp22417. pathetic experience.regret watching its news on Zee. 1/2,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia only one charging point among six passengers in AC2nd Train No 12321, PNR 6655497313",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia Our bag  was stolen while traveling from@bhopal to mathura color mustard M.k is written on it some cash and imp documents,1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia toilet of B3 coach in 11081 is leaking. Please do something ASAP https://t.co/Hwn4sT86zF,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia I'm travelling by ltt vskp express in second AC A1. Coach cleaning was not don properly can see dust https://t.co/sCMte3t7Qx,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia my uncle  trevelling to train no 15656 coach no-B2. He found that the toilet of this coach is very dirty.Plz do something.,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia SirPnr 2763195241 B7 seat no 15 train no 22694. There is no one to listen for increasing AC temp. We are feeling cold.,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia 2 bags with valuables stolen. How safe is travel on Indian Rail! PNR-8145511I31,8345511270 @sureshpprabhu",1,1,6,1,transportation,positive,neutral,medium
+"@RailMinIndia @sureshpprabhu pnr:8347596623 sir,the ac is not working in my coach and the TTE is not ready to make a refund receipt",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu 231-9103685trn no.14854 PNR:  Charging socket of coach A1 is not working properly. Tripped several times.,0,1,6,1,transportation,negative,neutral,medium
+"the whole berth area shatterd with the peels of various organics ,need immediate cleanup pnr 4512791357",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia PNR 8553246148 B 11/42, MOBILE NO: 7300113446....DRUNKARD PASSENGER SITTING BESIDE ME, HARASSING MY Fâ¦ https://t.co/gRwlmSyyby",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia Train cleaners onboard 11086 Goa-Mumbai double decker just emptied waste bags from running train near Vikhroli in Mumbai,0,1,6,1,transportation,negative,neutral,medium
+@DArpitBhargava @WesternRly @sureshpprabhu @PiyushGoyal @IndianRailMedia @RailMinIndia @DRM_Agra  kindly look into this,1,1,6,1,transportation,positive,neutral,medium
+"unremoved heavy bedrolls , stinky smell pnr 4512791357, 1 cleanup reqd",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @sureshpprabhu  pnr:8347596623 sir,the ac is not working in my coach and TTE has refused to write receitfor refund.",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @sureshpprabhu My bro lost his luggage, luks like by rail officials at dindigul station. PNR:4840503630,ph. 9994437217,pl help",1,1,6,1,transportation,positive,neutral,medium
+"@RailMinIndia @mukeshsoni777 Sir, FIR has been lodged by GRP/Raipur vide Cr.No. 94/16 U/S 379 IPC.",1,1,6,1,transportation,positive,neutral,medium
+Check out Thief Catcher on The Prolific Reader! #instafreebie #freebook #whattoread #pnr https://t.co/jB0Hts5o8J https://t.co/brSUrxmByu,1,1,6,1,transportation,positive,neutral,medium
+"RT @KaliaAjit: Sir. I am travelling in coach D-2 seat no. 22,23 in 12498 Sorry to say that wastewater of washbasen is coming intoâ¦",0,1,6,1,transportation,negative,neutral,medium
+"mobile stolen , need 1 help to track it pnr 4512791357",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia VERY VERY dirty toilets. 12423 DBRT Rajdhani Express. Coach B4.Never expected this in Rajdhani train@sureshpprabhu,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu very dirty toilet in coach B5 of 12509 exp. Pls pls pls do something. Pnr 4120563680. Divyanshu Mob.7847932526,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia Train No. 22462. B7 is very poorly maintained yesterday toilets were dirty. today no water in toilets. @sureshpprabhu,0,1,6,1,transportation,negative,neutral,medium
+@sureshpprabhu @RailMinIndia PNR 2547268804 AC not working in my 2AC coach since morning. All passengers sweating.,0,1,6,1,transportation,negative,neutral,medium
+"@sureshpprabhu @RailMinIndia No water in coaches Like S8,7 pnr:4318424916 mb 8880431072.",0,1,6,1,transportation,negative,neutral,medium
+@sureshpprabhu @RailMinIndia @gmner_gkp @DRM_ASN Train 15047  light are not working passengers are suffering #Help https://t.co/6fnIJV8Vga,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia This Guy is missingName - Avinash Singh, Age - 23Plz help to find out, 7873737047, 9938178192 https://t.co/h7FG4LGig2",1,1,6,1,transportation,positive,neutral,medium
+"@RailMinIndia @sureshpprabhu phone robbed by""kinnar"" at mehboobnagar;""RPF &amp; TT"" REFUSED for proper help.""Need Help""",1,1,6,1,transportation,positive,neutral,medium
+"aggressive copassengers, need of immediate change of seat pnr 4512791357",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia travelling without AC in AC coach from 8th May now no water available in washrooms for need #Great Indian railway management#,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia I am traveling in 12947 s-10,And what a security from the railway? I did not see any security person from 9:30 to  4:30.",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia @sureshpprabhu 12904 BRC TO BCT. SEAT S5 55 - FANS NOT WORKING. HELP WILL BE GREATLY APLRECIATED,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia  Sir, We lost a mobile with bearing No 9442455386 while travelling in Pothigai express Train No 12661 today at 5.15 am",1,1,6,1,transportation,positive,neutral,medium
+@drmvijayawada @RailMinIndia @RupSgsits @ed_eeg @drmsbc Sir same intimated to ongole platform electrical staff for rectification thank u,0,1,6,1,transportation,negative,neutral,medium
+@sureshpprabhu @RailMinIndia Coach-G16 12878 the condition of bathroom and coach is disappointing.. No water in bathroom.. Pnr - 276-1985743,0,1,6,1,transportation,negative,neutral,medium
+"no water supply in basins for the hast 7 hours,contacted tt but all in vain pnr no 4512791357",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu sir charging point is not working proper atandent telling what I do Train No. 19579 PNR 874746496 coach B210 11,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia there is huge huge scope to improve #train bathroom.. they r extremely dirty &amp; spread germs @sureshpprabhu #mumbai #india,0,1,6,1,transportation,negative,neutral,medium
+@sureshpprabhu @RailMinIndia No water supply in toilets and lavatory coach G 10 train no 12216. TTE helpless.PNR-8347396494,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia: I am frequent traveller in 16022, 16021 train. Initially I saw dust bin cover in sleeper. Now I could not find. Any reason?",0,1,6,1,transportation,negative,neutral,medium
+"@sureshpprabhu ,@RailMinIndia #Cleaning of coach. Nothing happened even jhansi has crossed.Train no 12643,Coach A1",0,1,6,1,transportation,negative,neutral,medium
+"Travelling in an extremely unclean compartment in Falaknuma 12703, no cleaning done on compartment B3.water loggedâ¦ https://t.co/JwALKcH36T",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia train no 12548; coach B2; problem - AC not working !!Can some one help pls,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia  TRAIN NO 12656 THERE IS NO PROPER WATER SERVICE IN TRAIN KINDLY LOOK INTO MATTER.. https://t.co/VIQmURi8HK,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu traveling in train no 12493 from pune. No cleaning services. Mosquito n flies in comprtmnt. Plz tkaction,0,1,6,1,transportation,negative,neutral,medium
+@sureshpprabhu ;@RailMinIndia ;@drmdelhi AC is not working in B5 malwa super now delhi no 12920 need engineerPnr 2644456080mob 8725029661,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia in Sabarmati (19168) coach A1there is no proper cooling.. we r facing problem since early morning... please do some necessary,0,1,6,1,transportation,negative,neutral,medium
+"@sureshpprabhu @RailMinIndia train 17302 coach S2 suffering frm bad smell coming out through toilet, wil b reaching dawangere next. Pls help",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @iam_aksharma Sir, missing report has been lodged by GRP/Ajmer  vide No. 393/16 dt. 01.06.2016.",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia sir I have lodged complaint no W/NR/LKO/000131407 DT 06/06/2016None has replied..... Kindly intervene,1,1,6,1,transportation,positive,neutral,medium
+@sureshpprabhu @RailMinIndia my mom 73 a cancer patient lost her tatahospital smart card in train (cont) https://t.co/lXFqoUOdkA,1,1,6,1,transportation,positive,neutral,medium
+@sureshpprabhu @RailMinIndia it was very difficult to locate a dustbin @ Wardha railway stn. How do you expect to keep it clean...,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @mumbairailusers Dirty water flowing ftm blower of local coach aft 1st rain. 8.08 Thane Vashi https://t.co/mBZUOFkLXQ,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia PNR:6253063718,TRAIN:15909 with 2 children train fully occupied by unauthorized passengers that we cannt able to go to toilet",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia Water not available in train no. 22944Coach S10PNR 8148142547,0,1,6,1,transportation,negative,neutral,medium
+paid for ac but feeling the hotness of railways negligence. Attention needed immediately pnr 4512791357,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @sureshpprabhu Grp of ppl(with help of police) capture first part of general bogie of today's train 12554, can u do smthng",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia PNR 8148161618No water in any of the taps provided be it washbasin or toilets.,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia Jbp pltfrm no.6 .This mess looks bad on an otherwise clean platform. https://t.co/peTDdynqVB,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu water scarcity in rail town chittaranjan also please help people there,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @PMOIndia Traveled 3 stations in last few days. Never seen Stations so clean and hygienic. Coaches &amp; Toilets absolutely clean,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia forgot my laptop bag in S1 seat no 14 train no. 12939 (pune to jaipur) at jaipur stn with 3 cards n laptop and some cash (1/2),1,1,6,1,transportation,positive,neutral,medium
+"@RailMinIndia @Jorebungley Sir, missing girl could not be traced. Pl lodge missing report with GRP/Siliguri",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia traveling from.amarpali express no water in toilet.called so many time 182 BT call nt https://t.co/uhxu0rwgca s7,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @sureshpprabhuSir,problem still persistNo water in Toilets and wash basinTrain is halted at small stops making it more late",0,1,6,1,transportation,negative,neutral,medium
+"@sureshpprabhu @RailMinIndia PNR 8248171565,Train No.12141, train just started few hrs back, toilet dirty, no light in 1 toilet, no water",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @sureshpprabhu pnr no. 2761985743 traveling in train no 12878 coach G16, dirty bathroom and also no water in coach please help",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia sir railway parcel service tracking not working and we are not able to found out parcel status. I parcelled my bike sbc2ers.,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia my PNR is 2118887897 train number 12983. Very bad experience with badding. Just wrapped in paper not even washed.,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia this is our security when train is running pic of 64231 bbk-lko &amp; train guard is sleeping at malhore https://t.co/vOutGI7SWn,1,1,6,1,transportation,positive,neutral,medium
+@sureshpprabhu @RailMinIndia Pathetic condition of coach B1 in GKP-Pune express (train no.15029). No one bothered to clean it! Pls help.,0,1,6,1,transportation,negative,neutral,medium
+@sureshpprabhu @RailMinIndia Ws at Lko Charbagh station ystrdy. Lack of sufficient sitting arrangements and platform ws vry dirty.,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu cleaning staff of railways dumping garbage through the gaps in the vestibule area. https://t.co/olc5vM41ua,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia confusion or misprint #whatever# but Chd to allp was worst noAC,ntClean,leaking in rain,noWater https://t.co/MLRJygEHmt",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @Parashuram_vns Sir, FIR lodged by GRP/Satna vide Cr.No. 039/16 U/S 380 IPC has been transferred to GRP/Allahabad.",1,1,6,1,transportation,positive,neutral,medium
+"@RailMinIndia travelling from bnglr to murudeswar in train 16523,s5 coach.toilets a stinckng and its tough for passengers to sit here",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia trvlng in Upasana exp fm Ddn 2 hwh, never seen such dirty train. Toilet stinking n water continus falng fm tap. Dustbn ovrflwn",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia  travelling from Howrah to cuttack in 12073 Jan Shatabdi exp in coach no C2. There is no cleanliness in the coach.,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia I, Joydev Gangully on 8/6/16 returning by Falaknuma Express. Around 5:17am my two ATM card &amp; cash rs 2000 stolen.",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia monsoon in Kerala train 12075 is leaking. Windows do not shut properly. Pathetic plight,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @sureshpprabhu @DrmDnr Its a shame dat  despite of instructions from GM,Patna rail administration is idle in cleaning dis mesh",0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia Window glass are not at all visible, pls get this clean urgently,PNR:6352386558,TRAIN:18030,DOJ:08-06-16,2A,PKU-LTT,Dep:16:35",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu every where i see that how water is being wasted  in Railway st where is infrastructure https://t.co/mIWrUhzkwh,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia Train No. 15107 Coach BE1, AC not working from Barabanki &amp; no one is listening to our complain.",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia Respected sir please clean this coach in train no. 19327 https://t.co/NErzeb8wNA,0,1,6,1,transportation,negative,neutral,medium
+"@RailMinIndia @sureshpprabhu TRAIN NO 12177, PNR 6153059588,Train departed from HWH junction but water didnt filled in any boggy.No water.",0,1,6,1,transportation,negative,neutral,medium
+@IRCTC_Ltd @RailMinIndia @RailMinIndia   Take some serious action on these people who is not understand rules and lâ¦ https://t.co/BQyjpBMNSn,1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia...toilet very dirty in s4 coach of saraighat express 12345...contents of toilet are over flowing....,0,1,6,1,transportation,negative,neutral,medium
+a sweeper supposed to be thief but the matter is out of the passengers cntrl pnr 4512791357,1,1,6,1,transportation,positive,neutral,medium
+"@RailMinIndia @drmdelhi at NZM rly station, think u guys playing with the security of country &amp; passenger#doserious https://t.co/RsX2a5bDXl",1,1,6,1,transportation,positive,neutral,medium
+@RailMinIndia @drmnfr_lmg @IR_ENHM till now no action has been taken,0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia Prabhu Sir passengers traveling in Rajdhani First AC definitely deserve clean bathrooms and soaps apart from clean coupes,0,1,6,1,transportation,negative,neutral,medium
+"@sureshpprabhu ?? iam also Indian citizen and Tandur station also in India.... No action, no reply, no water @RailMinIndia @SCRailwayIndia",0,1,6,1,transportation,negative,neutral,medium
+@RailMinIndia @sureshpprabhu trn no.14854 PNR:231-9103685  Charging socket of coach A1 is not working properly. Tripped several times.,0,1,6,1,transportation,negative,neutral,medium
+hanging chains of the middle berth broken  pnr 4512791357,1,1,6,1,transportation,positive,neutral,medium
