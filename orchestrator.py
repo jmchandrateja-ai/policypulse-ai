@@ -4,6 +4,7 @@ from agents.moderation_agent import ModerationAgent
 from agents.transcription_agent import TranscriptionAgent
 from agents.issue_classifier_agent import IssueClassifierAgent
 from agents.sentiment_agent import SentimentAgent
+from agents.topic_agent import TopicAgent
 from agents.report_agent import ReportAgent
 
 
@@ -14,6 +15,7 @@ class Orchestrator:
         self.transcription = TranscriptionAgent()
         self.classifier    = IssueClassifierAgent()
         self.sentiment     = SentimentAgent()
+        self.topic         = TopicAgent()
         self.report        = ReportAgent()
 
     def run(self, input_text: str, audio_path: str = None) -> AgentState:
@@ -37,6 +39,7 @@ class Orchestrator:
             return state
 
         state = self.sentiment.process(state)
+        state = self.topic.process(state)
         state = self.report.process(state)
 
         state.status       = "complete"
@@ -52,14 +55,24 @@ if __name__ == "__main__":
 
     complaints = [
         "The new property tax is too high and unaffordable for retired citizens",
-        "This stupid government is ruining the roads with potholes everywhere",
-        "The government hospital has no medicine and doctors are absent. This is urgent!",
-        "I support the new metro expansion. It will help daily commuters greatly.",
+        "GST rates have increased and small businesses are suffering badly",
+        "Government hospital has no medicine and doctors are absent",
+        "Road potholes everywhere and no repairs done for months",
+        "School fees increased 40 percent and poor families cannot afford",
+        "No bus service after 9pm in our area and women feel unsafe",
+        "Water supply has been cut for two weeks with no explanation",
+        "The bridge near our colony is dangerous and needs immediate repair",
     ]
 
     for complaint in complaints:
-        print("\n" + "="*60)
-        print(f"INPUT: {complaint}")
-        print("="*60)
+        print(f"\nProcessing: {complaint[:50]}...")
         state = orchestrator.run(complaint)
-        print(state.legislator_brief)
+
+    print("\n" + "="*60)
+    print("TOPIC CLUSTERING RESULTS")
+    print("="*60)
+    if state.topics:
+        for t in state.topics:
+            print(f"Topic {t['topic_id']}: {t['label']} ({t['count']} complaints)")
+    else:
+        print("Not enough data for topic modeling yet")
