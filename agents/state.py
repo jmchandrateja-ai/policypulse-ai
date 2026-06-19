@@ -10,30 +10,45 @@ class AgentState:
     input_text: str = ""
     input_language: str = ""
     audio_path: Optional[str] = None
+    media_path: Optional[str] = None
 
-    # Agent Outputs
+    # Location
+    latitude: float = 12.9716
+    longitude: float = 77.5946
+    area: str = ""
+    ward: str = ""
+
+    # Moderation
     moderated_text: str = ""
     is_abusive: bool = False
-    transcript: str = ""
 
+    # Intelligence
+    transcript: str = ""
     domain: str = ""
     issue_type: str = ""
     domain_confidence: float = 0.0
-
     sentiment: str = ""
     stance: str = ""
     urgency: str = ""
-
-    topics: List[Dict] = field(default_factory=list)
-    policy_provisions: List[Dict] = field(default_factory=list)
-
-    confirmation_audio: Optional[str] = None
-    legislator_brief: str = ""
-
     routing_decision: str = ""
 
-    thought_log: List[Dict] = field(default_factory=list)
+    # Clustering
+    topics: List[Dict] = field(default_factory=list)
+    cluster_id: Optional[int] = None
+    nearby_count: int = 0
 
+    # Party context
+    party_context: str = ""
+
+    # Output
+    policy_provisions: List[Dict] = field(default_factory=list)
+    confirmation_audio: Optional[str] = None
+    legislator_brief: str = ""
+    public_card: str = ""
+    complaint_id: Optional[int] = None
+
+    # Pipeline
+    thought_log: List[Dict] = field(default_factory=list)
     status: str = "idle"
     started_at: str = ""
     completed_at: str = ""

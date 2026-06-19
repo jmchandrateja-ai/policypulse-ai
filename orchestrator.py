@@ -1,56 +1,64 @@
 from datetime import datetime
 from agents.state import AgentState
-from agents.moderation_agent import ModerationAgent
-from agents.transcription_agent import TranscriptionAgent
-from agents.issue_classifier_agent import IssueClassifierAgent
-from agents.sentiment_agent import SentimentAgent
-from agents.topic_agent import TopicAgent
-from agents.voice_reader_agent import VoiceReaderAgent
-from agents.confirmation_agent import ConfirmationAgent
-from agents.report_agent import ReportAgent
+from agents.intake_agent import IntakeAgent
+from agents.intelligence_agent import IntelligenceAgent
+from agents.geospatial_agent import GeospatialAgent
+from agents.diplomatic_agent import DiplomaticAgent
+from agents.secretary_agent import SecretaryAgent
 
 
 class Orchestrator:
 
     def __init__(self):
-        self.moderation    = ModerationAgent()
-        self.transcription = TranscriptionAgent()
-        self.classifier    = IssueClassifierAgent()
-        self.sentiment     = SentimentAgent()
-        self.topic         = TopicAgent()
-        self.voice_reader  = VoiceReaderAgent()
-        self.confirmation  = ConfirmationAgent()
-        self.report        = ReportAgent()
+        self.intake       = IntakeAgent()
+        self.intelligence = IntelligenceAgent()
+        self.geospatial   = GeospatialAgent()
+        self.diplomatic   = DiplomaticAgent()
+        self.secretary    = SecretaryAgent()
 
-    def run(self, input_text: str, audio_path: str = None) -> AgentState:
+    def run(self, input_text: str = "",
+            audio_path: str = None,
+            media_path: str = None,
+            latitude: float = None,
+            longitude: float = None) -> AgentState:
+
         state = AgentState()
-        state.input_text = input_text
-        state.audio_path = audio_path
-        state.status     = "running"
-        state.started_at = datetime.now().strftime("%H:%M:%S")
+        state.input_text  = input_text
+        state.audio_path  = audio_path
+        state.media_path  = media_path
+        state.status      = "running"
+        state.started_at  = datetime.now().strftime("%H:%M:%S")
 
-        state.log("Orchestrator", "Pipeline started",
+        if latitude:  state.latitude  = latitude
+        if longitude: state.longitude = longitude
+
+        state.log("Orchestrator", "CivicLens AI pipeline started",
                   f"Input: {input_text[:60]}")
 
-        state = self.moderation.process(state)
-        state = self.transcription.process(state)
-        state = self.classifier.process(state)
-
-        if state.routing_decision == "clarify":
-            state.status = "needs_clarification"
-            state.log("Orchestrator", "Pipeline paused",
-                      "Low confidence — clarification needed")
-            return state
-
-        state = self.sentiment.process(state)
-        state = self.topic.process(state)
-        state = self.voice_reader.process(state)
-        state = self.confirmation.process(state)
-        state = self.report.process(state)
+        state = self.intake.process(state)
+        state = self.intelligence.process(state)
+        state = self.geospatial.process(state)
+        state = self.diplomatic.process(state)
+        state = self.secretary.process(state)
 
         state.status       = "complete"
         state.completed_at = datetime.now().strftime("%H:%M:%S")
         state.log("Orchestrator", "Pipeline complete",
-                  f"Domain: {state.domain} | Urgency: {state.urgency}")
+                  f"Domain: {state.domain} | "
+                  f"Area: {state.area} | "
+                  f"Urgency: {state.urgency}")
 
         return state
+
+
+if __name__ == "__main__":
+    o = Orchestrator()
+
+    print("\nTEST 1 — Infrastructure complaint")
+    state = o.run("The road has potholes everywhere and nobody is fixing them")
+    print(state.public_card)
+    print(state.legislator_brief)
+
+    print("\nTEST 2 — Healthcare urgent")
+    state = o.run("Government hospital has no medicine. This is an emergency!")
+    print(state.public_card)
